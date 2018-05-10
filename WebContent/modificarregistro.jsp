@@ -14,6 +14,7 @@
 <label for="txtidautor">ID autor </label><input name="txtidautor" type ="text">
 <input type="submit" value="mostrar">
 
+
 </form>
 
 <a href="index.jsp"><input type="button" value="Regresar"></a>
